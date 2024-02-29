@@ -1,8 +1,8 @@
-{"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
+{"spider":"https://vip.123pan.cn/1819018655/jk/spider.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"播客","name":"播客","type":3,"api":"./js/drpy.min.js","ext":"./js/播客.js"},
-	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://jihulab.com/Pizazz/tvbox/-/raw/main/danmu.jar;md5;d50d8ac81cd4ee0d0058c7daee84f183"},
+	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"https://vip.123pan.cn/1819018655/jk/danmu.jar;md5;d50d8ac81cd4ee0d0058c7daee84f183"},
 	{"key":"DJ音乐","name":"DJ音乐","type":3,"api":"./js/drpy.min.js","ext":"./js/DJ音乐.js"},
 	{"key":"啦啦DJ","name":"啦啦DJ","type":3,"api":"./js/drpy.min.js","ext":"./js/啦啦DJ.js"},
 	{"key":"清风DJ","name":"清风DJ","type":3,"api":"./js/drpy.min.js","ext":"./js/清风DJ.js"},
@@ -26,7 +26,7 @@
 	{"name":"线路1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
 	{"name":"线路2","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 	{"name":"线路3","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
-	{"name":"线路4","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+	{"name":"线路4","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}，
 	{"name":"线路5","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
 	{"name":"线路6","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 	{"name":"线路7","type":0,"url":"https://www.8090g.cn/?url="},
