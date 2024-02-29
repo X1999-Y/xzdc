@@ -1,4 +1,4 @@
-# TVBox自用资源
+# 自用资源
 xz接口：https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xz/main/xz.json
 
 综合接口：https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzzh/main/api.json
