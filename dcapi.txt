@@ -7,7 +7,7 @@
 	{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzdc/main/教育/api.json","name":"教育"},
 	{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzdc/main/直播/api.json","name":"直播"},
 	{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzdc/main/磁力/api.json","name":"磁力"},
-	{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzdc/main/云盘/api.json","name":"云盘"}
+	{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzdc/main/云盘/api.json","name":"云盘"},
         {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzzh/main/api.json","name":"综合"}
 	]
 }
